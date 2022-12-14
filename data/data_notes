@@ -1,3 +1,8 @@
-All raw databases must be stored in the folder called data.
 
-This information must not be processed or manipulated. It should be stored as it is provided in order to obtain input files for evaluation.
+The clean files.
+Every file gets the date it was was processed, so you can track differences.
+
+Examples of files:
+/data/jurel_catchatlength.csv (latest version)
+
+The main file in data (e.g. data/jurel_catchatlength.csv) is equal to the latest version in data/old, and it's the version by default that can be taken (to be read by other scripts, repos, etc.)

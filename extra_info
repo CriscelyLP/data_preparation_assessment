@@ -1,0 +1,8 @@
+
+Naming conventions:
+
+species_variable_date
+species: scientific name in camel case?
+variable: english
+date: %YYYY%MM%DD (so it can be sorted quickly by date)
+

@@ -1,0 +1,5 @@
+
+Example: jurel_maturity.R
+
+The main script to produce clean maturity at length data for "jurel".
+Only one script per variable per species is at the main level.

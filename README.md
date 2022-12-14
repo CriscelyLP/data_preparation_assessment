@@ -1,2 +1,5 @@
 # data_preparation_assessment
-Repository template for data preparation for the stock assessment
+Table with information on the species processed (common name, scientific name, etc).
+Metadata of the information used.
+
+README.Rmd.file: this is the file to create the README.md

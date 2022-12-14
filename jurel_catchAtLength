@@ -1,0 +1,5 @@
+
+Example: jurel_catchAtLength.R
+
+This is the main script to produce clean catch-at-length data for jurel.
+This is the main script, at root level, can source files from /code/.

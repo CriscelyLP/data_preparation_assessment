@@ -1,0 +1,5 @@
+
+Generic information that is needed (survey dates, landing port coordinates, vessels correct names, etc.)
+This information is normally fixed
+
+For spatial analysis, shapefiles, masks and similar must also be in data/auxiliar.

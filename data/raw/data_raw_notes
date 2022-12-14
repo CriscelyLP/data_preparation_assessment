@@ -1,0 +1,4 @@
+
+All raw databases must be stored in the folder called data. The raw data as it's gotten (e.g. from IMARSIS)
+
+This information must not be processed or manipulated. It should be stored as it is provided in order to obtain input files for evaluation.
